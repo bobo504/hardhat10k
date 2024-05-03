@@ -1,0 +1,6 @@
+hardhat
+head_with_hardhat
+person_with_hardhat
+head
+person_no_hardhat
+face
