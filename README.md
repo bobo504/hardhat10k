@@ -5,3 +5,5 @@ The dataset was annotated with YOLO format.
 # Data Download
 You can download the hardhat10k dataset through the https://drive.google.com/file/d/1DRnGkcRxM2mu4Xld3FV18Cc2ymS-CJk4/view?usp=drive_link.
 
+# Note
+ATTN: This dataset is free only for academic usage.
