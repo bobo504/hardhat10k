@@ -17,4 +17,4 @@ You can download the hardhat10k dataset through the https://drive.google.com/fil
 [5]	L. B. Xie, “Hard Hat Workers Dataset,” https://public.roboflow.com/object-detection/hard-hat-workers, September 2022.
 
 # Note
-ATTN: This dataset is free only for academic usage.
+ATTN: This dataset is only for academic usage.
