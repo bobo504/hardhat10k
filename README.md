@@ -19,7 +19,7 @@ You can download the hardhat10k dataset through the https://drive.google.com/fil
 # Note
 ATTN: This dataset is only for academic usage.
 
-# Author
+# Authors
 Wanbo Luo, Ahmad Ihsan Mohd Yassin, Khairul Khaizi Mohd Shariff, Rajeswari Raju
 
 Universiti Teknologi MARA
