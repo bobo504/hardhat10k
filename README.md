@@ -21,5 +21,9 @@ ATTN: This dataset is only for academic usage.
 
 # Authors
 Wanbo Luo, Ahmad Ihsan Mohd Yassin, Khairul Khaizi Mohd Shariff, Rajeswari Raju
-
 Universiti Teknologi MARA
+
+This work has been published by the Journal of Electrical & Electronic Systems Research (JEESR) (e-ISSN: 3030-640X)
+Doi:https://doi.org/10.24191/jeesr.v25i1.006
+
+W. Luo, K. K. M. Shariff, R. Raju, and A. I. M. Yassin, “Hardhat10K: A Large-scale Dataset for Deep Learning-based Hardhat-wearing Detection,” Journal of Electrical & Electronic Systems Research, vol. 25, no. OCT 2024, pp. 56–64, Oct. 2024, doi: 10.24191/jeesr.v25i1.006.
